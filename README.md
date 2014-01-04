@@ -20,6 +20,8 @@ To run the client side you must first intialize its configuration file : client.
 
 Server side
 -----
+The server side handles each new client request in a new chid process.
+
 To run the server side you must first intialize its configuration file : server.in, example:
 >21234
 
