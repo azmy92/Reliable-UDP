@@ -34,3 +34,8 @@ To run the server side you must first intialize its configuration file : server.
  - Second line: Maximum window size for selective reapet
 
  - fourth  line: Package dropping probability (for simulation purpose)
+ 
+
+Logging
+-----
+The output of each the server and client sides is loggeg in a log.txt file.
