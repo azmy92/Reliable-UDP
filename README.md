@@ -1,7 +1,7 @@
 Reliable-UDP
 ============
 
-A reliable data transfer protocol implementation using Linux UDP sockets, we implemented two modes, mode1: stop and wait, mode2: selective reapet.
+A reliable data transfer protocol implementation using Linux UDP sockets, we implemented two modes, mode1: stop and wait, mode2: selective repeat.
 The project is composed of two parts:
  - Client side
  - Server side
@@ -9,7 +9,7 @@ The project is composed of two parts:
 
 Client side
 -----
-To run the cient side you must first intialize its configuration file : client.in, example:
+To run the client side you must first intialize its configuration file : client.in, example:
 >21234
 
 >IMG_0050.jpg
